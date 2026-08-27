@@ -1,10 +1,10 @@
-# 📊 Food Delivery Business Performance — Data Visualization Portfolio (Day 14)
+# Food Delivery Business Performance — Data Visualization Portfolio (Day 14)
 
 This repository contains an exploratory data visualization portfolio built with **Python**, **Matplotlib**, and **Seaborn** using the `Day14_Food_Delivery_Visualization_Dataset.csv`.
 
 ---
 
-## 📈 Key Visualizations & Interpretations
+##  Key Visualizations & Interpretations
 
 ### 1. Monthly Revenue & Order Volume Trends (Dual-Axis Line Plot)
 * **Insight:** Peak demand occurs in June and December (>₹2.3M monthly gross), while February marks the annual low (~₹1.1M), showing strong seasonal surges around mid-year holidays and year-end festivities.
@@ -26,7 +26,7 @@ This repository contains an exploratory data visualization portfolio built with 
 
 ---
 
-## 💡 Executive Summary & Core Findings
+##  Executive Summary & Core Findings
 
 1. **Delivery Speed Governs Retention:** Delivery latency is the single biggest factor hurting customer satisfaction ($r = -0.88$). Faster deliveries directly drive customer retention ($r = 0.82$).
 2. **Rainy Weather Friction:** Inclement weather adds ~8.8 minutes to fulfillment, driving customer rating drops.
@@ -34,6 +34,6 @@ This repository contains an exploratory data visualization portfolio built with 
 
 ---
 
-## 🛠️ Repository Contents
+##  Repository Contents
 * `Day14_Food_Delivery_Visualization.ipynb` — Executed Colab notebook with charts and interpretations.
 * `Day14_Food_Delivery_Visualization_Dataset.csv` — Dataset file.
